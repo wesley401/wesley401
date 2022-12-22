@@ -1,4 +1,4 @@
-#  Salve 🤙
+#  Hello 🤙
 
 - 🔭 I’m currently working on individual project.
 - 🌱 I’m currently learning about Next.js.
